@@ -1,0 +1,36 @@
+[33mcommit 030b4d59f9927419c557316481bac39468a529bb[m[33m ([m[1;36mHEAD -> [m[1;32mDealsPageBranch[m[33m, [m[1;31morigin/DealsPageBranch[m[33m)[m
+Author: Ramki <ksramki92@gmail.com>
+Date:   Wed Sep 2 21:17:04 2020 +0530
+
+    added action method for the webelement NoOfDeals
+
+[33mcommit 6c51fe9e52d91fe6a30530b2d43789edf389c6aa[m
+Author: Ramki <ksramki92@gmail.com>
+Date:   Wed Sep 2 21:10:57 2020 +0530
+
+    added DealsPage class
+
+[33mcommit 284cdf453363865204c34e589cac2823574efbfa[m
+Author: Ramki <ksramki92@gmail.com>
+Date:   Wed Sep 2 20:26:19 2020 +0530
+
+    Added a line space at the end of the file before last close brace
+
+[33mcommit e65fed10cd7ecb5955014daaa534f4f101a5e79c[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: ffff870 fe0bf02
+Author: Ramki <ksramki92@gmail.com>
+Date:   Tue Sep 1 14:32:40 2020 +0530
+
+    Merge remote-tracking branch 'FreeCRMBDDTestNGGitRemote/master'
+
+[33mcommit ffff870d9643ce9e80e15d4c4664e33f49587754[m
+Author: Ramki <ksramki92@gmail.com>
+Date:   Tue Sep 1 14:31:31 2020 +0530
+
+    This is a first push to local repository
+
+[33mcommit fe0bf02bcb4308923b20d4d1fe2bf8ba46190c5e[m
+Author: Ramki Kuppusamy <66525374+ksramki92@users.noreply.github.com>
+Date:   Tue Sep 1 14:09:18 2020 +0530
+
+    Initial commit
